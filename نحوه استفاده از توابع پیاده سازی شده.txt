@@ -1,0 +1,5 @@
+for running the program using minimax algorithm : 
+
+1- change the name of get_best_action method to get_best_action2 
+2- comment the evaluate methed and uncomment the new evaluate method for better heuristic 
+3- uncomment the 132 - 228  lines.
